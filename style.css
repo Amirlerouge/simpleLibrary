@@ -1,0 +1,27 @@
+button {
+    background-color: #4097fa; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+  
+
+  }
+
+
+  .book {
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+  }
+
+  div {
+    margin-bottom: 15px;
+    padding: 4px 12px;
+    text-align: center;
+
+  }
+  
