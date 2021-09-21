@@ -1,2 +1,2 @@
 # simpleLibrary
-playing around with basic Dom action 
+playing around with the dom
