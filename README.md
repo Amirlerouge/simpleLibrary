@@ -1,2 +1,2 @@
 # simpleLibrary
-playing around with the dom
+playing around with the DOM
