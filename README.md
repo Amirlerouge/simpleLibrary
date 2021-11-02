@@ -2,4 +2,4 @@
 
 Playing around with the DOM
 
--> https://codepen.io/amirlerouge/pen/ZEJaxxb
+-> https://amirlerouge.github.io/simpleLibrary/
